@@ -330,3 +330,10 @@ ul.todo#completed li .buttons .complete .far{
 ul.todo#completed span{
   color: #25b99a;
 }
+
+ul.todo#completed span{
+  color: #25b99a;
+}
+p.text-danger{
+  color: red;
+}

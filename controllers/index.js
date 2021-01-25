@@ -126,3 +126,8 @@ document.getElementById('addItem').onclick = async (even)=>{
 
 }
  //======================== nghiệp vụ xóa dữ liệu =========================
+
+ // Viết chức năng tìm kiếm
+ let searchTask = (task) => {
+    console.log(task);
+ }
